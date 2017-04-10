@@ -1,0 +1,104 @@
+0000-0032:Ufo Land Special Edytion
+0001-0032:Gra
+0002-0032:Instrukcja
+0003-0032:Opcje
+0004-0032:Koniec
+0005-0032:Najlepsze wyniki
+kkkk-000k:to jest komentarz w pliku txt
+0006-0032:W grze UFO LAND SPECIAL EDYTION
+0007-0032:nalezy wyladowac w gorach na
+0008-0032:nieznanej planecie. Jako
+0009-0032:ladowisko moga posluzyc Ci
+0010-0032:tylko odpowiednio duze skrawki
+0011-0032:w miare plaskiego terenu. Przy
+0012-0032:ladowaniu nalezy zauwazyc, ze
+0013-0032:wszystkie nogi musza dotknac
+0014-0032:podloza, oraz nie moga zabardzo
+0015-0032:zaglebic sie w ziemi. Po
+0016-0032:osiagnieciu podloza musisz
+0017-0032:nieco zwiekszyc ciag by nogi
+0018-0032:twego statku nie zosatly
+0019-0032:zgniecione przez grawitacje.
+0020-0032:Sterowanie odbywa sie za pomoca
+0021-0032:sztrzalek. Klawisz gora/dol
+0022-0032:odpowiada za zwieksszenie/
+0023-0032:zmniejszenie ciagu. Strzalki
+0024-0032:lewo/prawo obracaja UFO. Klawis
+0025-0032:[ESC] blyskawicznie wylacza gre
+0026-0032:Aby powrocic do menu nalezy
+0027-0032:kliknac klawisz [Q].
+0028-0032: 
+0029-0032: 
+0030-0032: 
+0031-0032: 
+0032-0032: 
+0033-0032: 
+0034-0032:Instrukcja
+0035-0032:[Lewa]--menu     dalej--[Prawa]
+0036-0032: 
+0037-0032:[Lewa]--wstecz   dalej--[Prawa]
+0038-0032: 
+0039-0032:[Lewa]--wstecz   dalej--[Prawa]
+0040-0032: 
+0041-0032:[Lewa]--wstecz    menu--[Prawa]
+0042-0016:Power
+0043-0016:Angle
+0044-0016:Wygrana
+0045-0016:Pauza
+0046-0016:Fuel
+0047-0016:Score
+0048-0032:Gratulacje! Zajoles
+0049-0032:miejsce!
+0050-0032:Wpisz swoje imie:
+0051-0032:[prawo/lewo]--zmiana litery
+0052-0032:[enter]--akceptuj
+0053-0032:Sala chwaly
+0054-0032:[Q]--powrot do menu
+0055-0024:Opcje
+0056-0024: 
+0057-0024: 
+0058-0024:Rozdzielczosc
+0059-0024: 
+0060-0024: 
+0061-0024:Jezyk (language)
+0062-0024: 
+0063-0024: 
+0064-0024:Kolory
+0065-0024: 
+0066-0024: 
+0067-0024:DŸwiêk
+0068-0024: 
+0069-0024: 
+0070-0024:[Q]--powrot do menu
+0071-0024:Rozdzielczosc
+0072-0024: 
+0073-0024:X
+0074-0024: 
+0075-0024: 
+0076-0024:Y
+0077-0024: 
+0078-0024: 
+0079-0024:W oknie
+0080-0024:[T/N]
+0081-0024: 
+0082-0024:Zapisz
+0083-0024:Anuluj
+0084-0024:[Y\U\I\O]--zwiekszaja
+0085-0024:[H\J\K\L]--zmniejszaja
+0086-0024:[Q]--powrot do opcji
+0087-0024:Kolory
+0088-0024: 
+0089-0024:power
+0090-0024:fuel
+0091-0024:angle
+0092-0024:score
+0093-0024:hud
+0094-0024:napisy
+0095-0024:stopka
+0096-0024:poziom paliwa
+0097-0024:wskaznik
+0098-0024: 
+0099-0024: 
+0100-0024:zapisz
+0101-0024:Anuluj
+0102-0024:[Q]--powrot do opcji

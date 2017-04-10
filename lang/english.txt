@@ -1,0 +1,104 @@
+0000-0032:Ufo Land Special Edytion
+0001-0032:Game
+0002-0032:Instruction
+0003-0032:Options
+0004-0032:Quit
+0005-0032:High scores
+kkkk-000k:to jest komentarz w pliku txt
+0006-0032:In game UFO LAND SPECIAL EDYTIO
+0007-0032:you have to land in mountains
+0008-0032:on unknown planet. For landing
+0009-0032:you can use only enough
+0010-0032:big, flat terrain.
+0011-0032:More fuel you have on landing,
+0012-0032:more points will be add to scor
+0013-0032:In landing you must see
+0014-0032:that all of three legs must
+0015-0032:touch ground and they can't
+0016-0032:fall to deep into ground.
+0017-0032:You have to rise a litle bit
+0018-0032:power of your ship to
+0019-0032:defens your legs.
+0020-0032:You can move UFO by using
+0021-0032:arrows. Up/down are connect
+0022-0032:to rise/disrise power generated
+0023-0032:by engine. Arrows left/right
+0024-0032:can flip UFO to this two
+0025-0032:directions.
+0026-0032: 
+0027-0032:By pressing [ESC] you can close
+0028-0032:game fast from any location.
+0029-0032:Pressing [Q] allways bring you
+0030-0032:back to the menu.
+0031-0032:Press [P] to pause game.
+0032-0032: 
+0033-0032: 
+0034-0032:Instruction
+0035-0032:[Left]--menu      next--[Right]
+0036-0032: 
+0037-0032:[Left]--back      next--[Right]
+0038-0032: 
+0039-0032:[Left]--back      next--[Right]
+0040-0032: 
+0041-0032:[Left]--back      menu--[Right]
+0042-0016:Power
+0043-0016:Angle
+0044-0016:Winer
+0045-0016:Pause
+0046-0016:Fuel
+0047-0016:Score
+0048-0032:Congratulations! You have
+0049-0032:place!
+0050-0032:Insert your name:
+0051-0032:[right/left]--change leatter
+0052-0032:[enter]--acept
+0053-0032:Hale of Fame
+0054-0032:[Q]--return to menu
+0055-0024:Options
+0056-0024: 
+0057-0024: 
+0058-0024:Resolution
+0059-0024: 
+0060-0024: 
+0061-0024: Language
+0062-0024: 
+0063-0024: 
+0064-0024:Colours
+0065-0024: 
+0066-0024: 
+0067-0024:Sound
+0068-0024: 
+0069-0024: 
+0070-0024:[Q]--return to menu
+0071-0024:Resolution
+0072-0024: 
+0073-0024:X
+0074-0024: 
+0075-0024: 
+0076-0024:Y
+0077-0024: 
+0078-0024: 
+0079-0024:Windowed
+0080-0024:[Y/N]
+0081-0024: 
+0082-0024:Save
+0083-0024:Cancle
+0084-0024: 
+0085-0024: 
+0086-0024:[Q]--return to menu
+0087-0024:Colours
+0088-0024: 
+0089-0024:power
+0090-0024:fuel
+0091-0024:angle
+0092-0024:score
+0093-0024:hud
+0094-0024:text
+0095-0024:footer
+0096-0024:level of fuel
+0097-0024:pointer
+0098-0024: 
+0099-0024: 
+0100-0024:Save
+0101-0024:Cancle
+0102-0024:[Q]--return to menu

@@ -1,0 +1,13 @@
+resolution[800x800]::
+lang[poslki.txt]::
+levels[6]::
+windowed[2]::
+hcpow[245250080]::
+hcfue[250045000]::
+hcang[064255064]::
+hcsco[250170020]::
+hca[127127127]::
+nca[064255064]::
+ncns[245250080]::
+hcfuw[250170020]::
+hcwsk[130255130]::

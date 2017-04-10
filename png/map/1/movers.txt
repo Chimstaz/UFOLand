@@ -1,0 +1,1 @@
+[png/map/1/mover1.txt](png/map/1/mover1img.txt)[png/map/1/mover2.txt](png/map/1/mover2img.txt)[png/map/1/movercup2.txt](png/map/1/movercupimg2.txt)[png/map/1/movercup3.txt](png/map/1/movercupimg3.txt)[png/map/1/movercup4.txt](png/map/1/movercupimg4.txt)=

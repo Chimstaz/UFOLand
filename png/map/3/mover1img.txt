@@ -1,0 +1,1 @@
+[png/map/3/mover1a.png][png/map/3/mover1b.png][png/map/3/mover1c.png][png/map/3/mover1d.png][png/map/3/mover1e.png]=

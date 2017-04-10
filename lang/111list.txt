@@ -1,0 +1,2 @@
+[Polski](polski.txt)
+[English](english.txt)
