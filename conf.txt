@@ -1,7 +1,7 @@
-resolution[1366x768]::
+resolution[1000x600]::
 lang[polski.txt]::
 levels[6]::
-windowed[0]::
+windowed[2]::
 hcpow[245250080]::
 hcfue[250045000]::
 hcang[064255064]::
@@ -10,4 +10,4 @@ hca[127127127]::
 nca[064255064]::
 ncns[245250080]::
 hcfuw[250170020]::
-hcwsk[130255130]::
+hcwsk[000255130]::
